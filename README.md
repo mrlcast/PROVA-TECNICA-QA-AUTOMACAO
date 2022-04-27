@@ -14,7 +14,10 @@ Para verificar as versões:
 - robot--version
 - pip install --upgrade robotframework-seleniumlibrary
 
-Depois disso, ao baixar o código em sua máquina, utilize um terminal (aqui eu uso o cmder) e acesse a pasta do repositório:
+Rodar o comando:
+git clone https://github.com/mrlcast/PROVA-TECNICA-QA-AUTOMACAO.git
+
+Depois disso, ao clonar o código em sua máquina, utilize um terminal (aqui eu uso o cmder) e acesse a pasta do repositório:
 [Exemplo (o local em minha máquina):]
 cd C:\\Users\Desktop\Prova Técnica
 
